@@ -1,0 +1,3 @@
+[submodule "hamster_experiments"]
+	path = hamster_experiments
+	url = https://github.com/tbaugis/hamster_experiments.git
